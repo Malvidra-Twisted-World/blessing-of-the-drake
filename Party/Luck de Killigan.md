@@ -28,6 +28,11 @@ dndbeyond_id: 170939828
 
 #  Luck de Killigan
 
+![Luck de Killigan](https://i.imgur.com/KLCfXb2.png)
+
+![Token](https://i.imgur.com/8E2zgdN.png)
+
+
 > **Fighter 6** • Human • Level 6
 > *Guide — Unaligned*
 
